@@ -1,0 +1,17 @@
+%%writefile .gitignore
+# Python / Colab temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual Environment
+env/
+venv/
+
+# Large Datasets (اختر ما إذا كنت تريد رفع البيانات أم لا)
+*.csv
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
