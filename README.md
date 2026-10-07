@@ -1,2 +1,6 @@
-# house-price-prediction
-Machine Learning project to predict house prices using regression algorithms.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
